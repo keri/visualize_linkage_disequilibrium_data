@@ -2,6 +2,7 @@
 Functions to visualise linkage disequilibrium analysis with scatter plots 
 
 # Purpose
+
 Creates a scatter plot of results from linkage disequilibrium analysis. Specifically, these functions use results from plink analysis using version 1.07 and the command line argument:
 
 ```
@@ -16,7 +17,8 @@ filename.prune.in
 filename.prune.out
 
 ```
-## Input Files you will need for these functions
+## Input Files
+
 All are plink files. 
 
 ```
