@@ -68,6 +68,7 @@ imagesPath = '~/path/to/images/folder'
 create_scatter_plot_for_plink_ld(df_snps_in,df_snps_out,imagesPath)
 
 ``` 
+![Example using ADGWAS data](LDScatterPlot1To613445.png)
 
 ## Boxplots
 
@@ -81,3 +82,4 @@ imagesPath = '~/path/to/images/folder'
 create_scatter_plot_for_plink_ld(df_snps_in,df_snps_out,imagesPath)
 
 ``` 
+![Example of boxplot for suggested pruned data using ADGWAS data](LDBoxPlotPrune.png)
